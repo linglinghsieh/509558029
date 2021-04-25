@@ -1,4 +1,4 @@
-# NYCU-Software-Testing-2021-Lab3 509558029
+# NYCU-Software-Testing-Lab3 509558029
   [![Build Status](https://travis-ci.com/linglinghsieh/509558029.svg?branch=master)](https://travis-ci.com/linglinghsieh/509558029)
 - Pass
 
