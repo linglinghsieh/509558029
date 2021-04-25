@@ -1,5 +1,5 @@
 # NYCU-Software-Testing-2021-Lab3 509558029
-  [![Build Status](https://travis-ci.com/a4865g/309552005.svg?branch=master)](https://travis-ci.com/a4865g/309552005)
+  [![Build Status](https://travis-ci.com/linglinghsieh/509558029.svg?branch=master)](https://travis-ci.com/linglinghsieh/509558029)
 - Pass
 
 ![success](https://user-images.githubusercontent.com/81569098/115998360-727b2b80-a619-11eb-8589-10573022e6a1.png)
